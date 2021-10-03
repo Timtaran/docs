@@ -9,7 +9,7 @@
 
 * [Список модов](forge-mods/mods.md)
 * [1.12.2 Test Mod](forge-mods/1.12.2-test-mod/README.md)
-  * [Документация](forge-mods/1.12.2-test-mod/dokumentaciya.md)
+  * [Документация](forge-mods/1.12.2-test-mod/docs.md)
   * [GitHub](https://github.com/Timtaran/TestMod1-12-2)
 
 ## Проекты <a id="projects"></a>
