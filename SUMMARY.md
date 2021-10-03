@@ -4,8 +4,8 @@
 
 ## Forge Моды <a id="forge-mods"></a>
 
-* [Список модов](forge-mods/spisok-modov/README.md)
-  * [1.12.2 Test Mod](forge-mods/spisok-modov/1.12.2-test-mod.md)
+* [Список модов](forge-mods/mods/README.md)
+  * [1.12.2 Test Mod](forge-mods/mods/1.12.2-test-mod.md)
 
 ## Проекты <a id="projects"></a>
 
